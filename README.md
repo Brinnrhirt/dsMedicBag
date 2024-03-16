@@ -2,9 +2,7 @@
 Medical Bag script for ESX and QBCore made by Dennou Studios 
 
 
-### Donations are **greatly** appreciated
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dennoustudio)
-
+### WE REALIZE SERVER/SCRIPT CREATION SERVICES AND/OR DEV SERVICES ON THE DISCORD
 ### Anything you need you can contact me on DISCORD
 [![discord](https://icon-library.com/images/discord-icon-png/discord-icon-png-0.jpg)](https://discord.gg/6rKw79dyCM)
 
