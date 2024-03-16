@@ -39,4 +39,4 @@ Medical Bag script for ESX and QBCore made by Dennou Studios
 https://streamable.com/wi6vdw
 
 # Forum link:
-Soon
+https://forum.cfx.re/t/free-esx-qb-dsmedicbag/5218736
